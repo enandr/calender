@@ -32,8 +32,9 @@
     "webpack-dev-server": "3.9.0"
   },
   "dependencies": {
-    "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "reactstrap": "^8.4.1"
   },
   "husky": {
     "hooks": {
